@@ -129,6 +129,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 
 ## 🧑‍🚀 Tools and code
 
+- [correctover-scan by Correctover](https://github.com/Correctover/correctover-scan) - Zero-config CLI that scans MCP client configuration files (Claude Desktop, Cursor, VS Code) for security issues: credential exposure, SSRF protection, missing authentication and transport encryption; findings mapped to OWASP AISVS; JSON and SARIF output for CI; runs via `npx correctover-scan`.
 - [MCP Audit Extension - Audit and log all GitHub Copilot MCP tool calls in VSCode with ease](https://github.com/Agentity-com/mcp-audit-extension)
 - [Secure MCP - Security auditing tool to detect MCP vulnerabilities and misconfigurations by makalin](https://github.com/makalin/SecureMCP)
 - [mcp-context-protector - Security wrapper for MCP servers by trailofbits](https://github.com/trailofbits/mcp-context-protector)
